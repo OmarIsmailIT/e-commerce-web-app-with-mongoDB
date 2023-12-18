@@ -1,7 +1,7 @@
 # COR'AL: PWA E-Commerce Web Application
 
 
-COR'AL is a Progressive Web Application (PWA) designed for a general store that offers a wide range of products, including women’s wear, men’s wear, accessories, makeup, bags, and more. This application is built with Node.js, Express.js, TypeScript, JavaScript, MongoDB, and Mongoose. It implements a RESTful API to interact with the interface, providing a seamless and efficient shopping experience.
+COR'AL is a Progressive Web Application (PWA) designed for a general store that offers a wide range of products, including women’s wear, men’s wear, accessories, makeup, bags, and more. This application is built with Node.js, Express.js, TypeScript, JavaScript, MongoDB, and Mongoose(ODM). It implements a RESTful API to interact with the interface, providing a seamless and efficient shopping experience.
 
 ## Table of Contents
 
