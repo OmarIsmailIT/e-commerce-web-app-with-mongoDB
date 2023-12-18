@@ -1,7 +1,5 @@
 # COR'AL: PWA E-Commerce Web Application
 
-[![Build Status](https://img.shields.io/travis/your-username/coral.svg)](https://travis-ci.org/your-username/coral)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 COR'AL is a Progressive Web Application (PWA) designed for a general store that offers a wide range of products, including women’s wear, men’s wear, accessories, makeup, bags, and more. This application is built with Node.js, Express.js, TypeScript, JavaScript, MongoDB, and Mongoose. It implements a RESTful API to interact with the interface, providing a seamless and efficient shopping experience.
 
@@ -9,10 +7,9 @@ COR'AL is a Progressive Web Application (PWA) designed for a general store that 
 
 - [Features](#features)
 - [Installation](#installation)
-- [Configuration](#configuration)
 - [Backend Technologies](#backend-technologies)
 - [API Documentation](#api-documentation)
-- [Tests](#tests)
+
 
 ## Features
 
@@ -30,3 +27,28 @@ COR'AL is a Progressive Web Application (PWA) designed for a general store that 
    ```bash
    git clone https://github.com/your-username/coral.git
    cd coral
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+
+3. Run the application:
+
+   ```bash
+   node server.js
+
+## Backend Technologies
+
+The backend of COR'AL is built with the following technologies:
+
+- **Node.js**
+- **Express.js**
+- **TypeScript**
+- **JavaScript**
+- **MongoDB**
+- **Mongoose**
+
+## API Documentation
+
+For details on how to interact with the RESTful API, please refer to the [API Documentation](https://docs.google.com/spreadsheets/d/15RHpJ57RSXnE50WSGPuvu0WFkrLaAGpZSc-m_4ps20g/edit?usp=sharing).
